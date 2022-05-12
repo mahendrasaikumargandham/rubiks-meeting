@@ -1,1 +1,0 @@
-# Rubiks Meeting Web Application
